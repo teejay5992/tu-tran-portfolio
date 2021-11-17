@@ -1,0 +1,49 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: white;
+  background-color:#042332;
+  background-image: url("https://cdn.glitch.me/0fd6e34e-88bb-4ecb-a514-36a671ce6cb2%2FArtboard-15.jpg?v=1637117028337");
+}
+
+
+
+ h1{color:orange; text-align:center;
+  font-family: "Helvetica", serif;}
+
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
+
+
+
+
+.album{border-radius: 5px 5px;
+      padding: 30px;
+      ;
+}
+
+.card{border-radius: 5px 5px;}
+
+.lead{color:white}
+
+img{border-radius: 5px 5px;
+    opacity: 1;
+  }
